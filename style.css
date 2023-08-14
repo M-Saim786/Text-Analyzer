@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    color: black;
+}
+.bodymode{
+    background-color: black !important;
+    color: white;
+}
+.dnavbar{
+    background-color: black !important;
+    color: white;
+
+}
+.darkmode {
+    background-color: rgb(82, 180, 241);
+color: white !important;
+}
+
+#text{
+    padding: 10px 10px;
+    font-size: 1rem;
+}
